@@ -2,12 +2,11 @@
 
 body {
     font-family: 'Comic Neue';
-    font-size: 24px;
+    font-size: 48px;
     line-height: 1.5;
     text-align: center;
     
-    background-color: #333;
+    background-color: blue;
     color: #ffffff;
-    margin: 0 0 0 280px;
+    margin: 60 0  0 0;
 }
-
