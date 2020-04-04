@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+
+body {
+    font-family: 'Comic Neue';
+    font-size: 24px;
+    line-height: 1.5;
+    text-align: center;
+    
+    background-color: #333;
+    color: #ffffff;
+    margin: 0 0 0 280px;
+}
+
