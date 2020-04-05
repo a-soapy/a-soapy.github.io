@@ -1,20 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;900&display=swap');
 
 body {
     cursor:wait;
     
-    font-family: 'Comic Neue';
-    font-size: 48px;
+    font-family: 'Inter';
+    font-weight: 300;
+    font-size: 15px;
     line-height: 1.5;
-    text-align: center;
+    text-align: left;
     
-    background-color: blue;
-    color: #ffffff;
-    margin: 60 0  0 0;
+    background-color: cornflowerblue;
+    color: lightyellow;
+    margin: 60 0  0 60;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 80px;
+    line-height: 1.5;
+    
+    color: lightyellow;
 }
 
 img {
     width: 40%;
     max-width: 300px;
+    min-width: 100px;
     height: auto;
 }
